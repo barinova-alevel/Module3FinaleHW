@@ -1,0 +1,10 @@
+﻿1;Arsenii;Male;18;
+2;Oksana;Female;28;
+3;Simon;Female;38;
+4;Igor;Male;50;
+5;Igor;Male;49;
+6;Igor;Male;27;
+7;Igor;Male;32;
+8;Igor;Female;23;
+9;Igor;Female;45;
+10;Igor;Female;60;
